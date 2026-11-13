@@ -8,3 +8,7 @@ read `out/entry.txt`. The summary is fixed text (1,952 characters), so every
 run writes the same bytes. Python 3.13 standard library only, no network.
 
 License: MIT (see LICENSE).
+
+## Referral
+
+https://make.fun/r/xk7vph3j
